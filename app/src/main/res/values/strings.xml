@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Retrofit_Database_Demo</string>
+    <string name="please_wait_text">Please wait...</string>
+    <string name="error_occur_text">Some error occur. Please try again later.</string>
+    <string name="success_text">Success</string>
+    <string name="no_internet_text">No internet</string>
+    <string name="no_user_in_db_text">There is no user stored locally.</string>
+    <string name="response_null_text">response null</string>
+    <string name="title">Title :</string>
+    <string name="release_date">Release Date :</string>
+    <string name="description">Description :</string>
+    <string name="no_internet_and_data">No internet. No record in database either. Please connect with internet.</string>
+</resources>
